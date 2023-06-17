@@ -17,7 +17,7 @@
 	    text-align: center;
 	    color: #004C99;
 	    text-decoration: underline;
-		}
+	}
         h3, h4 {
             text-align: center;
 	    color: #004C99;
