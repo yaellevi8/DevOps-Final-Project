@@ -14,13 +14,13 @@
             margin: 0;
         }
         h1 {
-			text-align: center;
-			color: #004C99;
-			text-decoration: underline;
+	    text-align: center;
+	    color: #004C99;
+	    text-decoration: underline;
 		}
         h3, h4 {
             text-align: center;
-			color: #004C99;
+	    color: #004C99;
         }
         
         img {
