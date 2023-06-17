@@ -1,6 +1,6 @@
 # DevOps-Final-Project
 
-DevOps Course - Final Project!!
+DevOps Course - Final Project
 
 
 Served By: 
