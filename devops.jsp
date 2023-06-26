@@ -35,7 +35,7 @@
         <h4>HIT</h4>
 		<img src="devops.png" alt="DevOps Photo" width="750" height="550">
         <div>
-            <h3>Yael Levi, Efi Tzaig, Matan Maimon and Ziv Vilozni</h3>
+            <h3>Yael Levi, Efi Tzaig, Matan Maimon</h3>
         </div>
     </div>
 </body>
